@@ -4,5 +4,5 @@ server:
 info:
   app:
     name: "Food Service - dev "
-    description: "under development food service "
+    description: "under development food service git version "
     version: "1.0 under development "
