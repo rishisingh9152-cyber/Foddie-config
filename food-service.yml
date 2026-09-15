@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microservice
     username: root
-    password: 123456789
+    password: "{cipher}cc4b5dc09f4ed33888f7c7a22a20cde3c86d12d0348ba2436a3d3659f8eabd63"
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
