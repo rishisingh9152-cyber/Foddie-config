@@ -1,0 +1,7 @@
+server:
+  port: 9099
+info:
+  app:
+    name: "Food Service - test "
+    description: "api gateway for common entry point"
+    version: "1.0 test
